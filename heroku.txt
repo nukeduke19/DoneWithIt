@@ -1,0 +1,6 @@
+ https://glacial-crag-65847.herokuapp.com/api/listings
+
+
+Keystore password: 943f901593bb483f838389d357bca223
+  Key alias:         QG51a2VfZHVrZV8xOS9Eb25lV2l0aEl0
+  Key password:      51451cd1da384efd8c8dcc23d45372b9
