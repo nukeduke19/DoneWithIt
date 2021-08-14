@@ -26,7 +26,7 @@ Scan [QR Code](https://expo.dev/@nuke_duke_19/DoneWithIt) via the [Expo mobile a
 ### App Showcase
 
 <hr>
-<p align="center" style="background-color:black">
+<p align="center" >
   <img src="Screenshots\1.png" width="200"  hieght="300" />
   <img src="Screenshots\2.png" width="200"  hieght="300" />
   <img src="Screenshots\3.png" width="200"  hieght="300" />
