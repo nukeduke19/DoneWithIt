@@ -25,11 +25,19 @@ Scan [QR Code](https://expo.dev/@nuke_duke_19/DoneWithIt) via the [Expo mobile a
 
 ### App Showcase
 
-![Done With It Demo Video](./app/assets/DoneWithIt_demo.mp4)
-
+<hr>
 <p align="center">
-  
+  <img src="screenshots/1.jpg" width="200"  hieght="300" />
+  <img src="screenshots/2.jpg" width="200"  hieght="300" />
+  <img src="screenshots/3.jpg" width="200"  hieght="300" />
+  <img src="screenshots/4.jpg" width="200"  hieght="300" />
+  <img src="screenshots/5.jpg" width="200"  hieght="300" />
+  <img src="screenshots/6.jpg" width="200"  hieght="300" />
+  <img src="screenshots/7.jpg" width="200"  hieght="300" />
+   <img src="screenshots/8.jpg" width="200"  hieght="300" />
+  <img src="screenshots/9.jpg" width="200"  hieght="300" />
 </p>
+<hr>
 
 ### Running the application on your machine
 
@@ -37,7 +45,7 @@ To run the application on your machine, follow the steps below:
 
 ### Setting up the Backend Server
 
-1. Download/ Clone the repository on your machine.
+1. Download/Clone the repository on your machine. ( [click here to download the github repository](https://github.com/nukeduke19/Backend))
 2. Open the `backend` folder via VS Code.
 3. Open the `development.json` file (`config` &#8594; `development.json`) and change the `assetsBaseUrl` to your machine IPv4 Address.
 4. Open the terminal at the root of the `backend` folder (<kbd>Ctrl</kbd> + <kbd>'</kbd>) and run `npm install` to install the project dependencies.
@@ -87,10 +95,18 @@ To run the application on your machine, follow the steps below:
 ## Author
 
 **ANAND LAMANI**
+<br>
+<br>
 
-- [Github Profile](https://github.com/nukeduke19 "Anand Lamani")
-- [Email](mailto:anandlamanird19@gmail.com?subject=Hi "Hi!")
-- [LinkedIn](https://www.linkedin.com/in/anand-lamani-144506194 "Welcome")
+## 🔗 Links
+
+[![Github Profile](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=twitter&logoColor=white)](https://github.com/nukeduke19 "Anand Lamani")
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anandlamanird19@gmail.com?subject=Hi "Hi!")
+
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anand-lamani-144506194 "Welcome")
+<br>
+<br>
 
 ## 🤝 Support
 
