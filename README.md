@@ -26,8 +26,11 @@ Scan [QR Code](https://expo.dev/@nuke_duke_19/DoneWithIt) via the [Expo mobile a
 ### App Showcase
 
 <hr>
-<p align="center">
-  <img src="screenshots/1.jpg" width="200"  hieght="300" />
+
+![](./screenshots/1.jpg =200X300)
+![](./screenshots/2.jpg)
+
+  <!-- <img src="screenshots/1.jpg" width="200"  hieght="300" />
   <img src="screenshots/2.jpg" width="200"  hieght="300" />
   <img src="screenshots/3.jpg" width="200"  hieght="300" />
   <img src="screenshots/4.jpg" width="200"  hieght="300" />
@@ -35,8 +38,8 @@ Scan [QR Code](https://expo.dev/@nuke_duke_19/DoneWithIt) via the [Expo mobile a
   <img src="screenshots/6.jpg" width="200"  hieght="300" />
   <img src="screenshots/7.jpg" width="200"  hieght="300" />
    <img src="screenshots/8.jpg" width="200"  hieght="300" />
-  <img src="screenshots/9.jpg" width="200"  hieght="300" />
-</p>
+  <img src="screenshots/9.jpg" width="200"  hieght="300" /> -->
+
 <hr>
 
 ### Running the application on your machine
